@@ -1,0 +1,120 @@
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.Development.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.exe
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.deps.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.dev.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.pdb
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.AssemblyReference.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\scopedcss\bundle\EpicPatientAPI.API.styles.css
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\staticwebassets\EpicPatientAPI.API.StaticWebAssets.Manifest.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.RazorTargetAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CopyComplete
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.genruntimeconfig.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.Development.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.exe
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.deps.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.dev.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.AssemblyReference.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\scopedcss\bundle\EpicPatientAPI.API.styles.css
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\staticwebassets\EpicPatientAPI.API.StaticWebAssets.Manifest.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.RazorTargetAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CopyComplete
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.genruntimeconfig.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.Development.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\appsettings.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.exe
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.deps.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.runtimeconfig.dev.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\bin\Debug\net5.0\EpicPatientAPI.Services.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.AssemblyReference.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.MvcApplicationPartsAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\scopedcss\bundle\EpicPatientAPI.API.styles.css
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\staticwebassets\EpicPatientAPI.API.StaticWebAssets.Manifest.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.RazorTargetAssemblyInfo.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.csproj.CopyComplete
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\ref\EpicPatientAPI.API.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.API\obj\Debug\net5.0\EpicPatientAPI.API.genruntimeconfig.cache

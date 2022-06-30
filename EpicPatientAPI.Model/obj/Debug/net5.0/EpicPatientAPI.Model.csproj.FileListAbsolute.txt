@@ -1,0 +1,36 @@
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.deps.json
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.AssemblyReference.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.deps.json
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.AssemblyReference.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.deps.json
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\bin\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfoInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.AssemblyInfo.cs
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.CoreCompileInputs.cache
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\ref\EpicPatientAPI.Model.dll
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.pdb
+F:\SmartData\EpicPatientAPI\New folder\New folder\EpicPatientAPI\EpicPatientAPI.Model\obj\Debug\net5.0\EpicPatientAPI.Model.csproj.AssemblyReference.cache

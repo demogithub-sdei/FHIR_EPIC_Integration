@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.API\\EpicPatientAPI.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.API\\EpicPatientAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.API\\EpicPatientAPI.API.csproj",
+        "projectName": "EpicPatientAPI.API",
+        "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.API\\EpicPatientAPI.API.csproj",
+        "packagesPath": "C:\\Users\\pankajshiva\\.nuget\\packages\\",
+        "outputPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pankajshiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj": {
+                "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj"
+              },
+              "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\EpicPatientAPI.Services.csproj": {
+                "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\EpicPatientAPI.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj",
+        "projectName": "EpicPatientAPI.Model",
+        "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\pankajshiva\\.nuget\\packages\\",
+        "outputPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pankajshiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\EpicPatientAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\EpicPatientAPI.Services.csproj",
+        "projectName": "EpicPatientAPI.Services",
+        "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\EpicPatientAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\pankajshiva\\.nuget\\packages\\",
+        "outputPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pankajshiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj": {
+                "projectPath": "D:\\Pankaj\\FHIR\\EpicPatientAPI\\EpicPatientAPI\\EpicPatientAPI.Model\\EpicPatientAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
