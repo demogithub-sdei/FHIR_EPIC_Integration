@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EpicPatientAPI.API/bin/Debug/net5.0
+/EpicPatientAPI.API/obj
+/EpicPatientAPI.Model/bin/Debug/net5.0
+/EpicPatientAPI.Model/obj
+/EpicPatientAPI.Repository/obj
+/EpicPatientAPI.Services/bin/Debug/net5.0
+/EpicPatientAPI.Services/obj
